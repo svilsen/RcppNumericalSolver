@@ -1,7 +1,7 @@
 Package: RcppNumericalSolvers
 Type: Package
 Title: CppNumericalSolvers Headers
-Version: 0.1.0
+Version: 0.1.1
 Author: R-Package: Søren B. Vilsen. C++ headers: Patrick Wieschollek, Tobias Wood, Klimov Kirill, Andreas Horst, Simon Hrabec, Wolfgang Merkt, Izhbrain, Tobias Ulvgård, Karel van de Plassche, Unril, Yixuan Qui, and Pierre Moulon.
 Maintainer: Søren B. Vilsen <svilsen@math.aau.dk>
 Description: Cppoptlib headers for the CppNumericalSolver c++ library. The library contains headers for numerical optimisation. Methods implemented: Gradient descent, conjugated gradient descent, i, Nelder-Mead, Newton, BFGS, L-BFGS, and L-BFGS-B. THESE ARE EXPERIMENTAL updates and headers found at <https://github.com/PatWie/CppNumericalSolvers>. 
